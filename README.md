@@ -7,4 +7,4 @@
 -   Garrett Dunlap
 -   Will Pratt
 
-LiveLink:
+LiveLink: https://seir-team-project.herokuapp.com/
