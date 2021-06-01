@@ -7,4 +7,11 @@
 -   Garrett Dunlap
 -   Will Pratt
 
-LiveLink: https://seir-team-project.herokuapp.com/
+Backend Live at:
+
+-   <https://seir-team-project.herokuapp.com/>
+
+Frontend Live at:
+
+-   <https://teamproject.ianrackson.com/>
+-   <https://zen-lewin-23d62a.netlify.app/>
